@@ -1,0 +1,15 @@
+﻿  Circle.cpp
+  communicator.cpp
+  FileRead.cpp
+  FileWrite.cpp
+  Input.cpp
+  Line.cpp
+  Main.cpp
+  Manager.cpp
+  Point.cpp
+  Rectangle.cpp
+  Shape.cpp
+  Square.cpp
+  Triangle.cpp
+  Generating Code...
+  SketchVisualiser.vcxproj -> D:\YashDoshiWorkplace\SketchVisualiserApplication\x64\Debug\SketchVisualiser.exe
